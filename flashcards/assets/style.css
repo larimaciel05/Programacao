@@ -1,4 +1,4 @@
-footer{
+footer {
     background-color:black;
     color: white;
     position: fixed;
@@ -13,7 +13,7 @@ footer p {
     margin-top: 0.5rem;
 }
 
-body{
+body {
     background:url('img/bg-desktop.webp');
     font-family:Bai Jamjuree;
 }
@@ -29,7 +29,7 @@ body{
     flex-grow: 1;
     flex-basis: calc (33% - 6rem);
 }
-.cartao__conteudo p{
+.cartao__conteudo p {
     margin-top: 1rem;
     padding: 2rem;
 }
